@@ -11,5 +11,9 @@
     "url": "https://github.com/dotfold/dotlog.git"
   },
   "author": "dotfold",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "chai": "~1.6.0"
+  }
 }
