@@ -1,6 +1,6 @@
 {
   "name": "dotlog",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "log library with colors and like",
   "main": "./lib/dotlog.js",
   "scripts": {
