@@ -4,7 +4,7 @@
   "description": "log library with colors and like",
   "main": "./lib/dotlog.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -R spec"
   },
   "repository": {
     "type": "git",
