@@ -1,6 +1,6 @@
 
 var dotlog = require('./../lib/dotlog'),
-	level = require('./../lib/constants').Level
+	level = require('./../lib/constants').Levels
 
 describe('dotlogger', function() {
 

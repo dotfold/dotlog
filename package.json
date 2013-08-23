@@ -1,7 +1,9 @@
 {
   "name": "dotlog",
   "version": "0.1.0",
-  "description": "log library with colors and like",
+  "author": "dotfold",
+  "license": "MIT",
+  "description": "log your logs with this library with colors and like",
   "main": "./lib/dotlog.js",
   "scripts": {
     "test": "mocha -R spec"
@@ -10,10 +12,14 @@
     "type": "git",
     "url": "https://github.com/dotfold/dotlog.git"
   },
-  "author": "dotfold",
-  "license": "MIT",
   "devDependencies": {
     "mocha": "~1.9.0",
     "chai": "~1.6.0"
-  }
+  },
+  "contributors": [
+    {
+      "name": "dotfold / james mcnamee",
+      "email": "jamesmcnamee@gmail.com"
+    }
+  ]
 }
