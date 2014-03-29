@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dotfold/dotlog.png?branch=master)](https://travis-ci.org/dotfold/dotlog)
+
 ### dotlog
 
 Log your logs to your console with dotlog like
